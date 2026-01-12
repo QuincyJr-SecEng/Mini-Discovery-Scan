@@ -76,7 +76,7 @@ Once complete, I reviewed the discovered assets and evaluated their characterist
 
 <h2>🏷️ Asset Tagging Strategy</h2>
 <p>
-Based on the discovery results, I evaluated how assets could be logically tagged for ongoing security operations. This is where the Vulnerabilities will be presented for the team to parse through them and determine if there should be any recasts or exceptions made and what stakeholders need to be involved in the remediation steps.
+Based on the discovery results, I evaluated how assets could be logically tagged for ongoing security operations. 
 </p>
 
 <ul>
@@ -86,8 +86,6 @@ Based on the discovery results, I evaluated how assets could be logically tagged
   <li><strong>Criticality:</strong> High / Medium / Low</li>
   <li><strong>Ownership:</strong> Team, Student, or Project</li>
 </ul>
-
-<img width="1303" height="333" alt="image" src="https://github.com/user-attachments/assets/7fd7448e-4698-432c-9132-81e595019bea" />
 
 
 <hr />
