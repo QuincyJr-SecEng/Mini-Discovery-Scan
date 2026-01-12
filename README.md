@@ -70,14 +70,13 @@ Once complete, I reviewed the discovered assets and evaluated their characterist
   <li>Distinguished likely servers, endpoints, and infrastructure devices</li>
 </ul>
 
-<p><strong>📸 Screenshot:</strong> Discovered Assets List</p>
-<p><em>[INSERT SCREENSHOT HERE]</em></p>
+<img width="1319" height="697" alt="image" src="https://github.com/user-attachments/assets/858b922c-171f-4339-8ff4-93ee2e9a6ea5" />
 
 <hr />
 
 <h2>🏷️ Asset Tagging Strategy</h2>
 <p>
-Based on the discovery results, I evaluated how assets could be logically tagged for ongoing security operations.
+Based on the discovery results, I evaluated how assets could be logically tagged for ongoing security operations. This is where the Vulnerabilities will be presented for the team to parse through them and determine if there should be any recasts or exceptions made and what stakeholders need to be involved in the remediation steps.
 </p>
 
 <ul>
@@ -88,8 +87,8 @@ Based on the discovery results, I evaluated how assets could be logically tagged
   <li><strong>Ownership:</strong> Team, Student, or Project</li>
 </ul>
 
-<p><strong>📸 Screenshot:</strong> Asset Tagging View</p>
-<p><em>[INSERT SCREENSHOT HERE]</em></p>
+<img width="1303" height="333" alt="image" src="https://github.com/user-attachments/assets/7fd7448e-4698-432c-9132-81e595019bea" />
+
 
 <hr />
 
